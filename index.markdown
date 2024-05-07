@@ -27,9 +27,11 @@ Here you can see a map of the areas we have been considering in the analysis:
 <iframe src="{{site.baseurl}}/graphs/Heatmap_Resales_Price.html" width="1200" height="400" style="border:none;"></iframe>
 
 The analysis includes two comprehensive heatmaps displaying the median prices for both resales and primary houses sold over the years across various areas in East England. The heatmaps are structured to reflect each geographic area as rows, with the columns representing time, segmented by year and quarter. The color gradient, ranging from light to dark green, visualizes the median prices—darker shades of green denote higher prices. By contrasting these two maps, we can observe the distinct behavior of prices in the resale market compared to the primary housing market. This distinction is crucial for understanding both the immediate and long-term trends that influence buying decisions in these segments.
-# Placeholder
 
-<iframe src="{{site.baseurl}}/graphs/Map_East_England.html" width="1000" height="500" style="border:none;"></iframe>
+# Most Active Sales Areas
+
+<iframe src="{{site.baseurl}}/graphs/Primary_price_4.html" width="1000" height="500" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/Resales_price_4.html" width="1000" height="500" style="border:none;"></iframe>
 
 <br>
 
