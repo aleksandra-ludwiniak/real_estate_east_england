@@ -85,8 +85,11 @@ Simultaneously, Cambridge stands out as a sterling choice for premium investors 
 
 To determine the optimal timing for purchases in Fenland, we analyzed historical price trends and found that typically, the lowest prices occurred in the first quarter of each year, with the highest in the fourth quarter. This pattern suggests that early-year purchases might yield the best deals. However, given the overall upward trajectory of the market, the strategic move would be to buy at the earliest opportunity available, regardless of the quarter.
 
-<iframe src="{{site.baseurl}}/graphs/fenland.html" width="1000" height="500" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/fenland.html" width="1100" height="500" style="border:none;"></iframe>
 
 In conclusion, while Fenland offers an entry point into the housing market with potential for appreciation, Cambridge presents a compelling option for those looking for premium investment opportunities in a market known for its resilience and long-term value retention. Whether you seek affordability and growth or stability and premium investment, these insights will guide you in making an informed decision tailored to your financial and lifestyle goals.
+
+
+The [code](https://github.com/aleksandra-ludwiniak/real_estate_east_england/blob/main/code/Assignment_project_main.ipynb), with all additional analyzes that guided us in the final direction, is located in the same repository, in the 'code' folder. 
 
 
