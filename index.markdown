@@ -24,7 +24,6 @@ Here you can see a map of the areas we have been considering in the analysis:
 
 <iframe src="{{site.baseurl}}/graphs/Heatmap_Primary_Price.html" width="1200" height="400" style="border:none;"></iframe>
 
-
 <iframe src="{{site.baseurl}}/graphs/Heatmap_Resales_Price.html" width="1200" height="400" style="border:none;"></iframe>
 
 The analysis includes two comprehensive heatmaps displaying the median prices for both resales and primary houses sold over the years across various areas in East England. The heatmaps are structured to reflect each geographic area as rows, with the columns representing time, segmented by year and quarter. The color gradient, ranging from light to dark green, visualizes the median prices—darker shades of green denote higher prices. By contrasting these two maps, we can observe the distinct behavior of prices in the resale market compared to the primary housing market. This distinction is crucial for understanding both the immediate and long-term trends that influence buying decisions in these segments.
@@ -35,7 +34,6 @@ The analysis includes two comprehensive heatmaps displaying the median prices fo
 <br>
 
 # Price trends for all districts over the years
-
 
 Below is an analysis of apartment prices on the primary and secondary markets for subsequent districts. In order to best compare prices and their changes between districts, charts were created for each district and then superimposed on one chart. Additionally, we used linear regression to check the average annual change for each district, which allowed us to predict the dynamics of changes in subsequent years.
 
@@ -64,7 +62,6 @@ A significant rise in positive correlation from around 2010 through 2015 suggest
 <br>
 
 # A view in each district 
-
 
 <iframe src="{{site.baseurl}}/graphs/correlation_3_units_and_prices.html" width="1200" height="700" style="border:none;"></iframe>
 
