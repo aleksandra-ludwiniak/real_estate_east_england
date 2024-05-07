@@ -34,12 +34,16 @@ The lines show a clear upward trend in prices over these two decades, indicating
 
 # Subtitle 
 
-# Subtitle
+# DO high prices scare new buyers?
 
 
 <iframe src="{{site.baseurl}}/graphs/correlation_3_units_and_prices.html" width="1200" height="800" style="border:none;"></iframe>
 
-ajksdgyuewvfyuewhgirueijb
+The correlations are mostly negative across both home types in most districts, reinforcing the general trend that higher prices might be limiting sales.
+Some districts show a mix of negative and slightly positive correlations for new build homes, indicating localized variations in how price affects sales. These variations could be driven by factors like local economic conditions, availability of housing, and consumer preferences.
+Notably, in West Suffolk, new build homes show a really negative correlation, suggesting that in this area, higher prices might correlate with decreased demand or a perception of lower value in new homes.
+- Existing homes show consistent price sensitivity, with higher prices generally correlating with fewer sales. This could suggest a more established market where buyers are cautious about pricing.
+- New build homes show more variability, indicating that this market may be influenced by different factors, including economic cycles, the appeal of new features, and potentially more aggressive marketing strategies.
 
 
 # What about Fenland?
