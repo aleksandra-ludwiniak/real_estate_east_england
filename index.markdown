@@ -73,7 +73,22 @@ Notably, in West Suffolk, new build homes show a really negative correlation, su
 
 <br>
 
-# What about Fenland?
+# A more clear understanding considering the Volume of Sales
+
+<iframe src="{{site.baseurl}}/graphs/Existing Homes Volume of Sales.html" width="1000" height="500" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/New Build Homes Volume of Sales.html" width="1000" height="500" style="border:none;"></iframe>
+
+For existing homes, Cambridge shows a rising price-to-units ratio, suggesting robust demand and solid long-term investment potential. Fenland, with its moderate but consistent price-to-units ratio, represents a more affordable and stable option, attractive for sustainable growth without the volatility seen in urban centers. In contrast, new builds in Fenland demonstrate stable growth with reasonable sales volumes, making it a promising area for investors seeking value in new housing. Cambridge, however, with periodic spikes in the price-to-units ratio for new homes, continues to attract premium investments, particularly in new developments.
+
+It is easy to see in the existing houses plot the gradual increase in Price-to-Units Ratio: across most areas, there is a noticeable trend of increasing price-to-units ratio, which typically indicates rising prices relative to the number of units sold. This suggests a general market appreciation, which might be driven by a combination of factors including reduced supply or increased demand.
+Two areas have interesting curves, Cambridge and Fenland. 
+Cambridge: Exhibits a higher and more volatile price-to-units ratio, especially noticeable in the later years. The consistent growth and larger bubbles toward the end suggest a robust market with solid long-term investment potential, driven by strong demand and possibly limited supply.
+Fenland: Shows a more moderate increase in the price-to-units ratio, coupled with a consistent sales volume. This pattern suggests Fenland offers potential for growth without the extremes of price spikes seen in more central areas like Cambridge, making it an attractive area for those seeking more affordable investment opportunities with steady market conditions.
+Looking at new houses there is a stable growth with spikes, the price-to-units ratio for new builds is generally lower than for existing homes, indicating a potentially lower entry price for buyers. However, there are spikes in some areas, suggesting periods of higher demand or premium pricing for new constructions.
+Peterborough and Cambridge and show significant spikes in price-to-units ratios at various points, likely reflecting new developments coming to market with higher price points. The larger bubbles in Cambridge also reflect a high volume of transactions, underscoring its strong market presence.
+Fenlandalways maintains a lower and more stable price-to-units ratio with smaller but consistent sales volumes. This stability, combined with affordable entry points, underscores Fenland's appeal to buyers and investors looking for new housing options without the premium pricing seen in more urban centers.
+
+# Let's focus on Fenland?
 
 Our special attention was drawn to the Fenland district, where the median price of apartments on the primary market was the lowest in all recorded years and the growth rate was the lowest. However, on the secondary market, the median apartment price is no longer the lowest, and the growth dynamics examined using linear regression turned out to be higher than in the case of the Peterborough district. Buying a flat in Fenland may be a good investment if your budget is not the highest and you want to be the first owner of the property.
 
@@ -82,3 +97,4 @@ Our special attention was drawn to the Fenland district, where the median price 
 
 
 To investigate which months are the best to buy apartments in the Fenland district, we performed an analysis where, for each year, we checked in which quarter of a given year the median price was the highest and in which the lowest. For both markets, it is clearly visible that prices for most years were the highest in the fourth quarter and the lowest in the first quarter. We can conclude from this that it is best to buy properties in Fenland at the beginning of the year, when prices are lowest, and sell at the end of the year - however, bearing in mind the general strong upward trend year on year, it is best to simply buy as soon as possible, and in which quarter we do it in most likely doesn't matter.
+
