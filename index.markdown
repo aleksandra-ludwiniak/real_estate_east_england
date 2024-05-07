@@ -30,8 +30,8 @@ The analysis includes two comprehensive heatmaps displaying the median prices fo
 
 # Most Active Sales Areas
 
-<iframe src="{{site.baseurl}}/graphs/Primary_price_4.png" width="1000" height="500" style="border:none;"></iframe>
-<iframe src="{{site.baseurl}}/graphs/Resales_price_4.png" width="1000" height="500" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/Primary_price_4.png" width="500" height="250" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/Resales_price_4.png" width="500" height="250" style="border:none;"></iframe>
 
 <br>
 
