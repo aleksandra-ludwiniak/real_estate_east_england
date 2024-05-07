@@ -14,9 +14,10 @@ Using techniques ranging from basic statistical analysis to advanced predictive 
 
 By focusing on this geographic area and market segment, this study addresses a significant gap in the available research, offering a targeted analysis that can help individuals and families better understand what to expect when considering a move to the countryside. Furthermore, this project not only aids buyers but also contributes to the broader dialogue about rural development and economic sustainability in East England.
 
-Here you can see a map of the area we have been considering in the analysis:
+Here you can see a map of the areas we have been considering in the analysis:
 
-<iframe src="{{site.baseurl}}/graphs/Map_East_England.html" width="1200" height="400" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/Map_East_England.html" width="1000" height="500" style="border:none;"></iframe>
+
 
 # Price trends for all districts over the years
 
