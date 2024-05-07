@@ -35,9 +35,9 @@ The analysis includes two comprehensive heatmaps displaying the median prices fo
 
 Below is an analysis of apartment prices on the primary and secondary markets for subsequent districts. In order to best compare prices and their changes between districts, charts were created for each district and then superimposed on one chart. Additionally, we used linear regression to check the average annual change for each district, which allowed us to predict the dynamics of changes in subsequent years.
 
-<iframe src="{{site.baseurl}}/graphs/district_price_trends_primary_market.html" width="1200" height="400" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/district_price_trends_primary_market.html" width="1200" height="500" style="border:none;"></iframe>
 
-<iframe src="{{site.baseurl}}/graphs/district_price_trends_resale_market.html" width="1200" height="400" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/district_price_trends_resale_market.html" width="1200" height="500" style="border:none;"></iframe>
 
 
 The lines show a clear upward trend in prices over these two decades, indicating that houses in all districts have generally become more expensive over time. There is a clear decline in both markets around the crisis in 2008, but the overall trend is upwards. In the case of the secondary market, this growth is more stable, while in the primary market we have more sudden changes. It's clear that the Cambridge District has the highest median prices, but it's also the smallest area, which means the housing market there is very small.
