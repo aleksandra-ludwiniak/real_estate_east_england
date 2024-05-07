@@ -31,10 +31,20 @@ Below is an analysis of apartment prices on the primary and secondary markets fo
 
 The lines show a clear upward trend in prices over these two decades, indicating that houses in all districts have generally become more expensive over time. There is a clear decline in both markets around the crisis in 2008, but the overall trend is upwards. In the case of the secondary market, this growth is more stable, while in the primary market we have more sudden changes. It's clear that the Cambridge District has the highest median prices, but it's also the smallest area, which means the housing market there is very small.
 
+# Do high prices scare buyers?
 
-# Subtitle 
+<iframe src="{{site.baseurl}}/graphs/correlation_2.html" width="1200" height="800" style="border:none;"></iframe>
 
-# DO high prices scare new buyers?
+Looking at existing houses there is a generally negative correlation throughout most of the period, suggesting that higher prices tend to be associated with fewer units sold. This might indicate price sensitivity in the existing homes market.
+The correlation appears to become less negative over time, especially around 2008-2010, which could coincide with market adjustments or economic events like the financial crisis, potentially altering buying behavior.
+After 2010, the correlation becomes more negative again before stabilizing towards the end, suggesting a return to the earlier trend.
+
+When it comes to new houses the correlation also starts negative but shows significant variability over time.
+Notably, there is a period where the correlation turns positive around 2004 to 2008, indicating that during this time, higher prices did not deter buyers of new build homes, possibly due to a booming real estate market or attractiveness of newer properties.
+The correlation dips again into the negative after 2008, likely influenced by the broader economic downturn, which may have made new build homes less attractive or attainable.
+A significant rise in positive correlation from around 2010 through 2015 suggests a strong recovery in the new build market where higher prices coincide with higher sales.
+
+# A view in each district 
 
 
 <iframe src="{{site.baseurl}}/graphs/correlation_3_units_and_prices.html" width="1200" height="800" style="border:none;"></iframe>
