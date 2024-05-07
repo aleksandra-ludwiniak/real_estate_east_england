@@ -18,6 +18,8 @@ Here you can see a map of the areas we have been considering in the analysis:
 
 <iframe src="{{site.baseurl}}/graphs/Map_East_England.html" width="1000" height="500" style="border:none;"></iframe>
 
+<br>
+
 # A clear trend during the years
 
 <iframe src="{{site.baseurl}}/graphs/Heatmap_Primary_Price.html" width="1200" height="400" style="border:none;"></iframe>
@@ -30,6 +32,8 @@ The analysis includes two comprehensive heatmaps displaying the median prices fo
 
 <iframe src="{{site.baseurl}}/graphs/Map_East_England.html" width="1000" height="500" style="border:none;"></iframe>
 
+<br>
+
 # Price trends for all districts over the years
 
 
@@ -41,6 +45,8 @@ Below is an analysis of apartment prices on the primary and secondary markets fo
 
 
 The lines show a clear upward trend in prices over these two decades, indicating that houses in all districts have generally become more expensive over time. There is a clear decline in both markets around the crisis in 2008, but the overall trend is upwards. In the case of the secondary market, this growth is more stable, while in the primary market we have more sudden changes. It's clear that the Cambridge District has the highest median prices, but it's also the smallest area, which means the housing market there is very small.
+
+<br>
 
 # Do high prices scare buyers?
 
@@ -55,6 +61,8 @@ Notably, there is a period where the correlation turns positive around 2004 to 2
 The correlation dips again into the negative after 2008, likely influenced by the broader economic downturn, which may have made new build homes less attractive or attainable.
 A significant rise in positive correlation from around 2010 through 2015 suggests a strong recovery in the new build market where higher prices coincide with higher sales.
 
+<br>
+
 # A view in each district 
 
 
@@ -66,8 +74,7 @@ Notably, in West Suffolk, new build homes show a really negative correlation, su
 - Existing homes show consistent price sensitivity, with higher prices generally correlating with fewer sales. This could suggest a more established market where buyers are cautious about pricing.
 - New build homes show more variability, indicating that this market may be influenced by different factors, including economic cycles, the appeal of new features, and potentially more aggressive marketing strategies.
 
-/
-/
+<br>
 
 # What about Fenland?
 
