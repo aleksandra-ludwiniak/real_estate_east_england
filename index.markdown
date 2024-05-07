@@ -6,7 +6,7 @@ layout: page
 title: Find the best investment on the housing market in the East of England
 ---
 
-# Introduction , basic statistics
+# Introduction
 
 PLACEHOLDER
 
