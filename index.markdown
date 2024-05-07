@@ -12,8 +12,6 @@ The analysis encompasses a comprehensive exploration of house price trends and s
 
 Using techniques ranging from basic statistical analysis to advanced predictive modeling, this project seeks to uncover patterns and correlations that define the housing market in East England's countryside. The ultimate goal is to provide a predictive outlook on housing prices, enabling prospective homeowners to anticipate market trends and make strategic decisions about when and where to purchase a property.
 
-By focusing on this geographic area and market segment, this study addresses a significant gap in the available research, offering a targeted analysis that can help individuals and families better understand what to expect when considering a move to the countryside. Furthermore, this project not only aids buyers but also contributes to the broader dialogue about rural development and economic sustainability in East England.
-
 Here you can see a map of the areas we have been considering in the analysis:
 
 <iframe src="{{site.baseurl}}/graphs/Map_East_England.html" width="1000" height="500" style="border:none;"></iframe>
@@ -27,7 +25,7 @@ Here you can see a map of the areas we have been considering in the analysis:
 <iframe src="{{site.baseurl}}/graphs/Heatmap_Primary_sold.html" width="1200" height="400" style="border:none;"></iframe>
 
 
-The analysis includes two comprehensive heatmaps displaying the median prices for both resales and primary houses sold over the years across various areas in East England. The heatmaps are structured to reflect each geographic area as rows, with the columns representing time, segmented by year and quarter. The color gradient, ranging from light to dark green, visualizes the median prices—darker shades of green denote higher prices. By contrasting these two maps, we can observe the distinct behavior of prices in the resale market compared to the primary housing market. This distinction is crucial for understanding both the immediate and long-term trends that influence buying decisions in these segments.
+Both heat maps show that home sales on the secondary market are significantly higher than on the primary market in each area and quarter, indicating greater activity on the secondary market in these regions, in the primary market the number of homes sold per quarter in a given district reaches its maximum 781 (Peterbourugh, Q1-2007), where on the secondary market it is 4625 (Peterbourugh, Q3-2004). On the primary market, we see a hotspot in the first two quarters of 2014 in Cambridge, where over 700 homes were sold each quarter, and in Peterborough at the turn of 2006-2007. On the secondary market, the largest number of houses were sold in the years 2000-2008 in Hundingdonshire. Both markets showed a visible collapse after 2008.
 
 <br>
 
@@ -44,7 +42,7 @@ The lines show a clear upward trend in prices over these two decades, indicating
 
 <br>
 
-# Do high prices scare buyers?
+# Do high prices scare buyers? Or maybe greater buying interest causes prices to rise?
 
 <iframe src="{{site.baseurl}}/graphs/correlation_2.html" width="1200" height="900" style="border:none;"></iframe>
 
@@ -59,7 +57,7 @@ A significant rise in positive correlation from around 2010 through 2015 suggest
 
 <br>
 
-# A view in each district 
+# How does the price correlate with the number of houses sold between areas?
 
 <iframe src="{{site.baseurl}}/graphs/correlation_3_units_and_prices.html" width="1200" height="700" style="border:none;"></iframe>
 
