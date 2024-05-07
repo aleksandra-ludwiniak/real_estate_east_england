@@ -6,7 +6,15 @@ layout: page
 title: Find the best investment on the housing market in the East of England
 ---
 
-# Introduction
+In recent years, the allure of the countryside has increasingly drawn attention from potential homeowners seeking tranquility away from the urban hustle. This trend has been particularly notable in East England, where picturesque landscapes blend with historical richness to offer a unique living experience. This project aims to leverage extensive data analysis to better understand the housing market dynamics in this region, providing valuable insights for individuals considering a move to the countryside.
+
+The analysis encompasses a comprehensive exploration of house price trends and sales volumes over the past two decades, spanning from 1996 to 2015. By examining datasets on both existing homes and newly built properties, this study aims to capture a full spectrum of the market, offering insights into how prices have evolved and how many homes have been sold over time. Such knowledge is crucial, not only for potential buyers to make informed decisions but also for policymakers and developers to assess the impact of their initiatives and plan future developments effectively.
+
+Using techniques ranging from basic statistical analysis to advanced predictive modeling, this project seeks to uncover patterns and correlations that define the housing market in East England's countryside. The ultimate goal is to provide a predictive outlook on housing prices, enabling prospective homeowners to anticipate market trends and make strategic decisions about when and where to purchase a property.
+
+By focusing on this geographic area and market segment, this study addresses a significant gap in the available research, offering a targeted analysis that can help individuals and families better understand what to expect when considering a move to the countryside. Furthermore, this project not only aids buyers but also contributes to the broader dialogue about rural development and economic sustainability in East England.
+
+
 
 PLACEHOLDER
 
