@@ -33,7 +33,7 @@ The lines show a clear upward trend in prices over these two decades, indicating
 
 # Do high prices scare buyers?
 
-<iframe src="{{site.baseurl}}/graphs/correlation_2.html" width="1200" height="800" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/correlation_2.html" width="1200" height="900" style="border:none;"></iframe>
 
 Looking at existing houses there is a generally negative correlation throughout most of the period, suggesting that higher prices tend to be associated with fewer units sold. This might indicate price sensitivity in the existing homes market.
 The correlation appears to become less negative over time, especially around 2008-2010, which could coincide with market adjustments or economic events like the financial crisis, potentially altering buying behavior.
@@ -47,7 +47,7 @@ A significant rise in positive correlation from around 2010 through 2015 suggest
 # A view in each district 
 
 
-<iframe src="{{site.baseurl}}/graphs/correlation_3_units_and_prices.html" width="1200" height="800" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/correlation_3_units_and_prices.html" width="1200" height="500" style="border:none;"></iframe>
 
 The correlations are mostly negative across both home types in most districts, reinforcing the general trend that higher prices might be limiting sales.
 Some districts show a mix of negative and slightly positive correlations for new build homes, indicating localized variations in how price affects sales. These variations could be driven by factors like local economic conditions, availability of housing, and consumer preferences.
