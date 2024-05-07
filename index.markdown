@@ -18,6 +18,10 @@ Here you can see a map of the areas we have been considering in the analysis:
 
 <iframe src="{{site.baseurl}}/graphs/Map_East_England.html" width="1000" height="500" style="border:none;"></iframe>
 
+# A clear trend during the years
+
+<iframe src="{{site.baseurl}}/graphs/Map_East_England.html" width="1000" height="500" style="border:none;"></iframe>
+
 
 # Price trends for all districts over the years
 
