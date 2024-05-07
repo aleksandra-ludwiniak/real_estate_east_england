@@ -66,6 +66,8 @@ Notably, in West Suffolk, new build homes show a really negative correlation, su
 - Existing homes show consistent price sensitivity, with higher prices generally correlating with fewer sales. This could suggest a more established market where buyers are cautious about pricing.
 - New build homes show more variability, indicating that this market may be influenced by different factors, including economic cycles, the appeal of new features, and potentially more aggressive marketing strategies.
 
+/
+/
 
 # What about Fenland?
 
@@ -76,5 +78,3 @@ Our special attention was drawn to the Fenland district, where the median price 
 
 
 To investigate which months are the best to buy apartments in the Fenland district, we performed an analysis where, for each year, we checked in which quarter of a given year the median price was the highest and in which the lowest. For both markets, it is clearly visible that prices for most years were the highest in the fourth quarter and the lowest in the first quarter. We can conclude from this that it is best to buy properties in Fenland at the beginning of the year, when prices are lowest, and sell at the end of the year - however, bearing in mind the general strong upward trend year on year, it is best to simply buy as soon as possible, and in which quarter we do it in most likely doesn't matter.
-
-# South Cambridgeshire - ?
