@@ -77,8 +77,8 @@ Notably, in West Suffolk, new build homes show a really negative correlation, su
 
 # A more clear understanding considering the Volume of Sales
 
-<iframe src="{{site.baseurl}}/graphs/Existing Homes Volume of Sales.html" width="1000" height="500" style="border:none;"></iframe>
-<iframe src="{{site.baseurl}}/graphs/New Build Homes Volume of Sales.html" width="1000" height="500" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/Existing Homes Volume of Sales.html" width="500" height="200" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/New Build Homes Volume of Sales.html" width="500" height="200" style="border:none;"></iframe>
 
 For existing homes, Cambridge shows a rising price-to-units ratio, suggesting robust demand and solid long-term investment potential. Fenland, with its moderate but consistent price-to-units ratio, represents a more affordable and stable option, attractive for sustainable growth without the volatility seen in urban centers. In contrast, new builds in Fenland demonstrate stable growth with reasonable sales volumes, making it a promising area for investors seeking value in new housing. Cambridge, however, with periodic spikes in the price-to-units ratio for new homes, continues to attract premium investments, particularly in new developments.
 
