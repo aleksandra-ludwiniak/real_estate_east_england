@@ -16,7 +16,7 @@ By focusing on this geographic area and market segment, this study addresses a s
 
 Here you can see a map of the area we have been considering in the analysis:
 
-<iframe src="{{site.baseurl}}/graphs/East_England_map.html" width="1200" height="400" style="border:none;"></iframe>
+<iframe src="{{site.baseurl}}/graphs/Map_East_England.html" width="1200" height="400" style="border:none;"></iframe>
 
 # Price trends for all districts over the years
 
